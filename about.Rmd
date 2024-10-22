@@ -1,0 +1,12 @@
+---
+title: "This is about my website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+## This is info about the website
+
+This is for an example for the [P8104](https://p8105.com/) class for "making websites". I am using RMD and will host in GitHub.
+

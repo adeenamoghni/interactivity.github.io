@@ -1,0 +1,20 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# This is Adeena's awesome website
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+Sometimes I use [this](https://www.google.com/) when I need help with Data Science
+
+Here's how you insert an image 
+
+![](images/ted.jpg)
+
+
+If you want learn more about this website, please click [here](about.html)
